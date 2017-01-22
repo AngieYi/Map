@@ -28,16 +28,21 @@ These are Graphics / GIS projectsthat I implemented for industry or research.
 
 <p align="center">
   <img src="/img/clip_image006.jpg"><br>
-  <b>WebMapping - Global Ship Movement Visualization</b><br>
+  <b>WebMapping - Global Ship Movement Visualization</b>
+  <br>
+  <br>
+  <br>
 </p>
 
+<p align="center">
+  <img src="/img/clip_image008.jpg"><br>
+  <b>DynamicWebsite - add ToDo Note for different users</b>
+  <br>
+  <br>
+  <br>
+</p>
                                                                 
                                          
-![img](/img/clip_image008.jpg)
-
-​						                               **DynamicWebsite - add ToDo Note for different users**
-
-
 
 
 
