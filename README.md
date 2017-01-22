@@ -45,16 +45,16 @@ These are Graphics / GIS projectsthat I implemented for industry or research.
   <br>
   <br>
   
-  <img src="/img/clip_image012.jpg">
-  <b>Before Identify</b>
-  <img src="/img/clip_image014.jpg">
-  <b>After Identify</b>
+  <img src="/img/clip_image012.jpg"><br>
+  <b>Before Identify</b><br>
+  <img src="/img/clip_image014.jpg"><br>
+  <b>After Identify</b><br>
   <b>C#.NET - ArcEngine - Identify underground water on geological maps</b><br>
   <br>
   <br>
   <br>
   
-  <img src="/img/clip_image016.jpg"><br>
+  <img src="/img/clip_image016.gif"><br>
   <b>C - OpenGL - Texture mapping - Animation</b>
   <br>
   <br>
