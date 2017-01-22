@@ -26,14 +26,12 @@ These are Graphics / GIS projectsthat I implemented for industry or research.
 
 
 
+<p align="center">
+  <img src="/img/clip_image006.jpg"><br>
+  <b>WebMapping - Global Ship Movement Visualization</b><br>
+</p>
 
-
-![img](/img/clip_image006.jpg)
-<p style="text-align: center;"> WebMapping - Global Ship Movement Visualization </p>
-                                          
-                                          
-                                          
-                                         
+                                                                
                                          
 ![img](/img/clip_image008.jpg)
 
