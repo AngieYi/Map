@@ -6,9 +6,11 @@
 
 hongyan.angie.yi@gmail.com           https://www.linkedin.com/in/hongyanyi        https://github.com/AngieYi 
 
+
 ###  Overview
 
 These are Graphics/GIS projects that I implemented for industry or research.
+
 
 ### Specifications
 
@@ -16,13 +18,13 @@ These are Graphics/GIS projects that I implemented for industry or research.
 
 • Global ship movements on 3D Earth.
 
-• Dynamic Web Application - add ToDo Note for different users.
-
 • 2D Mining Map Making and Data Management System.
 
 • Identifier of Underground Water On Geological Maps.
 
 • 2D/3DGraphics projects, covered Texture mapping, Animation, Lighting, Transparency,Point Cloud, Geometric Modeling, CuttingPlane, Isoline, Isosurface, Isovolume, Vector Cloud, Streamline, Probe Ribbon/BlobTrace, Hyperbolic Geometry Map, Noisy, ChromaDepth, Displacement/Bump Mapping, MagicLens, Tessellated Bézier Patch.
+
+• Dynamic Web Application - add ToDo Note for different users.
 
 <p align="center">
   <br>
@@ -105,14 +107,6 @@ These are Graphics/GIS projects that I implemented for industry or research.
   
   <img src="/img/clip_image056.jpg"><br>
   <b>GLSL - ChromaDepth</b>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  
-  <img src="/img/clip_image008.jpg"><br>
-  <b>Dynamic Web Application - add ToDo Note for different users</b>
   <br>
   <br>
   <br>
@@ -259,6 +253,14 @@ These are Graphics/GIS projects that I implemented for industry or research.
   
   <img src="/img/clip_image066.jpg"><br>
   <b>GLSL - Tessellated Bézier Patch</b>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  
+  <img src="/img/clip_image008.jpg"><br>
+  <b>Dynamic Web Application - add ToDo Note for different users</b>
   <br>
   <br>
   <br>
