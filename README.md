@@ -66,6 +66,7 @@ These are Graphics / GIS projectsthat I implemented for industry or research.
 
 
 ![earth.png](/img/clip_image016.gif)
+
 ​                                          **C- OpenGL - Texture mapping - Animation**
 
 
@@ -73,6 +74,7 @@ These are Graphics / GIS projectsthat I implemented for industry or research.
 
 
 ![Untitled.png](/img/clip_image018.jpg)
+
 ​                                          **C- OpenGL - Terrain Visualization - Multiple View**
 
 
@@ -80,6 +82,7 @@ These are Graphics / GIS projectsthat I implemented for industry or research.
 
 
 ![img](/img/clip_image020.jpg)
+
 ​                                          **C- OpenGL - Cartesian no hyperbolic**
 
 
@@ -94,6 +97,7 @@ These are Graphics / GIS projectsthat I implemented for industry or research.
 
 
 ![img](/img/clip_image024.jpg)
+
 ​                                          **C- OpenGL - Curved Polar Hyperbolic**
 
 
@@ -101,6 +105,7 @@ These are Graphics / GIS projectsthat I implemented for industry or research.
 
 
 ![img](/img/clip_image026.jpg)
+
 ​			**C- OpenGL - Romantic Birthday Night Video - Texture Mapping, Bézier curve, Lighting**
 
 
@@ -108,6 +113,7 @@ These are Graphics / GIS projectsthat I implemented for industry or research.
 
 
 ![helicopter.png](/img/clip_image028.jpg)
+
 ​						**C- OpenGL - Helicopter Animation - Multiple view**
 
 
@@ -115,6 +121,7 @@ These are Graphics / GIS projectsthat I implemented for industry or research.
 
 
 ![2.jpg](/img/clip_image030.jpg)
+
 ​						**OpenCL/ C - OpenGL Particle System**
 
 
@@ -122,6 +129,7 @@ These are Graphics / GIS projectsthat I implemented for industry or research.
 
 
 ![pointcloud.png](/img/clip_image032.jpg)
+
 ​							**C- OpenGL - Point Cloud**
 
 
@@ -143,6 +151,7 @@ These are Graphics / GIS projectsthat I implemented for industry or research.
 
 
 ![img](/img/clip_image038.jpg)
+
 ​							**C- OpenGL - Isosurface**
 
 
@@ -150,6 +159,7 @@ These are Graphics / GIS projectsthat I implemented for industry or research.
 
 
 ![Isovolume.png](/img/clip_image040.jpg)
+
 ​							**C- OpenGL - Isovolume**
 
 
@@ -164,6 +174,7 @@ These are Graphics / GIS projectsthat I implemented for industry or research.
 
 
 ![img](/img/clip_image044.jpg)
+
 ​							**C- OpenGL - Static Stream Lines**
 
 
@@ -171,6 +182,7 @@ These are Graphics / GIS projectsthat I implemented for industry or research.
 
 
 ![img](/img/clip_image046.jpg)
+
 ​							**C- OpenGL - Probe Streamline**
 
 
@@ -178,6 +190,7 @@ These are Graphics / GIS projectsthat I implemented for industry or research.
 
 
 ![img](/img/clip_image048.jpg)
+
 ​							**C- OpenGL - Probe Ribbon Trace**
 
 
@@ -185,6 +198,7 @@ These are Graphics / GIS projectsthat I implemented for industry or research.
 
 
 ![img](/img/clip_image050.jpg)
+
 ​							**C- OpenGL - Probe Blob Trace**
 
 
@@ -199,6 +213,7 @@ These are Graphics / GIS projectsthat I implemented for industry or research.
 
 
 ![img](/img/clip_image054.jpg)
+
 ​							**RenderMan- Displacement Mapping vs Bump Mapping**
 
 
@@ -206,12 +221,14 @@ These are Graphics / GIS projectsthat I implemented for industry or research.
 
 
 ![img](/img/clip_image056.jpg)
+
 ​                                                                      **GLSL- ChromaDepth**
 
 
 
 
 ![img](/img/clip_image058.jpg)
+
 ​							**GLSL- Displacement & Bump Mapping, Lighting**
 
 
@@ -219,7 +236,9 @@ These are Graphics / GIS projectsthat I implemented for industry or research.
 
 ![img](/img/clip_image060.jpg)
 
+
 ![img](/img/clip_image062.jpg)
+
 ​                                                                       		**GLSL- Magic Lens**
 
 
@@ -227,6 +246,7 @@ These are Graphics / GIS projectsthat I implemented for industry or research.
 
 
 ![img](/img/clip_image064.jpg)
+
 ​                                                	 		 **GLSL- Texture Mapping - Deers**
 
 
