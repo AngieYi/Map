@@ -29,6 +29,7 @@ These are Graphics / GIS projectsthat I implemented for industry or research.
 
 
 ![img](/img/clip_image006.jpg)
+
 ​                                          **WebMapping - Global Ship Movement Visualization**
 
 
@@ -36,6 +37,7 @@ These are Graphics / GIS projectsthat I implemented for industry or research.
 
 
 ![img](/img/clip_image008.jpg)
+
 ​						                               **DynamicWebsite - add ToDo Note for different users**
 
 
@@ -43,6 +45,7 @@ These are Graphics / GIS projectsthat I implemented for industry or research.
 
 
 ![img](/img/clip_image010.jpg)
+
 ​                                          **C#.NET- MapGIS - Mining Map Making and Data Management System**
 
 
@@ -50,10 +53,13 @@ These are Graphics / GIS projectsthat I implemented for industry or research.
 
 
 ![img](/img/clip_image012.jpg)
+
 ​                                          **Before Identify**
 
 ![img](/img/clip_image014.jpg)
+
 ​                                          **After Identify**
+
 ​                                          **C#.NET - ArcEngine - Identify underground water on geological maps**
 
 
