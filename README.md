@@ -137,6 +137,7 @@ These are Graphics / GIS projectsthat I implemented for industry or research.
 
 
 ![img](/img/clip_image034.jpg)
+
 ​							**C- OpenGL - Cutting plane**
 
 
@@ -167,6 +168,7 @@ These are Graphics / GIS projectsthat I implemented for industry or research.
 
 
 ![img](/img/clip_image042.jpg)
+
 ​							**C- OpenGL - Vector Cloud**
 
 
@@ -206,6 +208,7 @@ These are Graphics / GIS projectsthat I implemented for industry or research.
 
 
 ![img](/img/clip_image052.jpg)
+
 ​							**RenderMan- Elliptical Dots**
 
 
@@ -254,4 +257,5 @@ These are Graphics / GIS projectsthat I implemented for industry or research.
 
 
 ![img](/img/clip_image066.jpg)
+
 ​                                                                    	**GLSL- Tessellated Bézier Patch**
