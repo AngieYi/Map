@@ -9,7 +9,7 @@ hongyan.angie.yi@gmail.com           https://www.linkedin.com/in/hongya
 
 ###  Overview
 
-These are Graphics/GIS projects that I implemented for industry or research.
+These are Graphics / GIS / Web projects that I implemented for industry or research.
 
 
 ### Specifications
@@ -18,37 +18,37 @@ These are Graphics/GIS projects that I implemented for industry or research.
 
 • Global ship movements on 3D Earth.
 
-• 2D Mining Map Making and Data Management System.
+• 2D Mining Map-Making and Data Management System.
 
-• Identifier of Underground Water On Geological Maps.
+• Identifier of Underground Water On 2D Geological Maps.
 
-• 2D/3DGraphics projects, covered Texture mapping, Animation, Lighting, Transparency,Point Cloud, Geometric Modeling, CuttingPlane, Isoline, Isosurface, Isovolume, Vector Cloud, Streamline, Probe Ribbon/BlobTrace, Hyperbolic Geometry Map, Noisy, ChromaDepth, Displacement/Bump Mapping, MagicLens, Tessellated Bézier Patch.
+• 2D/3D Graphics projects, covered Texture mapping, Animation, Lighting, Transparency,Point Cloud, Geometric Modeling, CuttingPlane, Isoline, Isosurface, Isovolume, Vector Cloud, Streamline, Probe Ribbon/BlobTrace, Hyperbolic Geometry Map, Noisy, ChromaDepth, Displacement/Bump Mapping, MagicLens, Tessellated Bézier Patch.
 
 • Dynamic Web Application - add ToDo Note for different users.
 
 <p align="center">
   <br>
   <br>
-  
-  <img src="/img/clip_image006.jpg"><br>
+
+  <img src="/img/clip_image005.png"><br>
   <b>WebMapping - Global Ship Movement Visualization</b>
   <br>
   <br>
   <br>
   <br>
   <br>
-  
-  <img src="/img/clip_image010.jpg"><br>
+
+  <img src="/img/clip_image009.png"><br>
   <b>C#.NET - MapGIS - Mining Map Making and Data Management System</b>
   <br>
   <br>
   <br>
   <br>
   <br>
-  
-  <img src="/img/clip_image012.jpg"><br>
+
+  <img src="/img/clip_image011.png"><br>
   <b>Before Identify</b><br><br>
-  <img src="/img/clip_image014.jpg"><br>
+  <img src="/img/clip_image013.png"><br>
   <b>After Identify</b><br>
   <b>C#.NET - ArcEngine - Identify underground water on geological maps</b><br>
   <br>
@@ -56,7 +56,7 @@ These are Graphics/GIS projects that I implemented for industry or research.
   <br>
   <br>
   <br>
-  
+
   <img src="/img/clip_image018.jpg"><br>
   <b>C - OpenGL - Oregon Terrain Visualization - Multiple View</b>
   <br>
@@ -64,7 +64,7 @@ These are Graphics/GIS projects that I implemented for industry or research.
   <br>
   <br>
   <br>
-  
+
   <img src="/img/clip_image020.jpg"><br>
   <b>C - OpenGL - Cartesian no hyperbolic</b>
   <br>
@@ -72,7 +72,7 @@ These are Graphics/GIS projects that I implemented for industry or research.
   <br>
   <br>
   <br>
-  
+
   <img src="/img/clip_image022.jpg"><br>
   <b>C - OpenGL - Curved Cartesian Hyperbolic</b>
   <br>
@@ -80,7 +80,7 @@ These are Graphics/GIS projects that I implemented for industry or research.
   <br>
   <br>
   <br>
-  
+
   <img src="/img/clip_image024.jpg"><br>
   <b>C - OpenGL - Curved Polar Hyperbolic</b>
   <br>
@@ -88,7 +88,7 @@ These are Graphics/GIS projects that I implemented for industry or research.
   <br>
   <br>
   <br>
-  
+
   <img src="/img/clip_image016.gif"><br>
   <b>C - OpenGL - Texture mapping - Animation</b>
   <br>
@@ -96,7 +96,7 @@ These are Graphics/GIS projects that I implemented for industry or research.
   <br>
   <br>
   <br>
-  
+
   <img src="/img/clip_image054.jpg"><br>
   <b>RenderMan - Displacement Mapping vs Bump Mapping</b>
   <br>
@@ -104,7 +104,7 @@ These are Graphics/GIS projects that I implemented for industry or research.
   <br>
   <br>
   <br>
-  
+
   <img src="/img/clip_image056.jpg"><br>
   <b>GLSL - ChromaDepth</b>
   <br>
@@ -112,7 +112,7 @@ These are Graphics/GIS projects that I implemented for industry or research.
   <br>
   <br>
   <br>
-  
+
   <img src="/img/clip_image026.jpg"><br>
   <b>C - OpenGL - Romantic Birthday Night Video - Texture Mapping, Bézier curve, Lighting</b>
   <br>
@@ -120,7 +120,7 @@ These are Graphics/GIS projects that I implemented for industry or research.
   <br>
   <br>
   <br>
-  
+
   <img src="/img/clip_image028.jpg"><br>
   <b>C - OpenGL - Helicopter Animation - Multiple view</b>
   <br>
@@ -128,7 +128,7 @@ These are Graphics/GIS projects that I implemented for industry or research.
   <br>
   <br>
   <br>
-  
+
   <img src="/img/clip_image030.jpg"><br>
   <b>C - OpenGL - OpenCL - Particle System</b>
   <br>
@@ -136,7 +136,7 @@ These are Graphics/GIS projects that I implemented for industry or research.
   <br>
   <br>
   <br>
-  
+
   <img src="/img/clip_image032.jpg"><br>
   <b>C - OpenGL - Point Cloud</b>
   <br>
@@ -144,7 +144,7 @@ These are Graphics/GIS projects that I implemented for industry or research.
   <br>
   <br>
   <br>
-  
+
   <img src="/img/clip_image034.jpg"><br>
   <b>C - OpenGL - Cutting plane</b>
   <br>
@@ -152,7 +152,7 @@ These are Graphics/GIS projects that I implemented for industry or research.
   <br>
   <br>
   <br>
-  
+
   <img src="/img/clip_image036.jpg"><br>
   <b>C - OpenGL - Isoline - Contour line</b>
   <br>
@@ -160,7 +160,7 @@ These are Graphics/GIS projects that I implemented for industry or research.
   <br>
   <br>
   <br>
-  
+
   <img src="/img/clip_image038.jpg"><br>
   <b>C - OpenGL - Isosurface</b>
   <br>
@@ -168,7 +168,7 @@ These are Graphics/GIS projects that I implemented for industry or research.
   <br>
   <br>
   <br>
-  
+
   <img src="/img/clip_image040.jpg"><br>
   <b>C - OpenGL - Isovolume</b>
   <br>
@@ -176,7 +176,7 @@ These are Graphics/GIS projects that I implemented for industry or research.
   <br>
   <br>
   <br>
-  
+
   <img src="/img/clip_image042.jpg"><br>
   <b>C - OpenGL - Vector Cloud</b>
   <br>
@@ -184,7 +184,7 @@ These are Graphics/GIS projects that I implemented for industry or research.
   <br>
   <br>
   <br>
-  
+
   <img src="/img/clip_image044.jpg"><br>
   <b>C - OpenGL - Static Stream Lines</b>
   <br>
@@ -192,7 +192,7 @@ These are Graphics/GIS projects that I implemented for industry or research.
   <br>
   <br>
   <br>
-  
+
   <img src="/img/clip_image046.jpg"><br>
   <b>C - OpenGL - Probe Streamline</b>
   <br>
@@ -200,7 +200,7 @@ These are Graphics/GIS projects that I implemented for industry or research.
   <br>
   <br>
   <br>
-  
+
   <img src="/img/clip_image048.jpg"><br>
   <b>C - OpenGL - Probe Ribbon Trace</b>
   <br>
@@ -208,7 +208,7 @@ These are Graphics/GIS projects that I implemented for industry or research.
   <br>
   <br>
   <br>
-  
+
   <img src="/img/clip_image050.jpg"><br>
   <b>C - OpenGL - Probe Blob Trace</b>
   <br>
@@ -216,7 +216,7 @@ These are Graphics/GIS projects that I implemented for industry or research.
   <br>
   <br>
   <br>
-  
+
   <img src="/img/clip_image052.jpg"><br>
   <b>RenderMan - Elliptical Dots</b>
   <br>
@@ -224,9 +224,9 @@ These are Graphics/GIS projects that I implemented for industry or research.
   <br>
   <br>
   <br>
+
   
-  
-  
+
   <img src="/img/clip_image058.jpg"><br>
   <b>GLSL - Displacement/Bump Mapping, Lighting</b>
   <br>
@@ -234,7 +234,7 @@ These are Graphics/GIS projects that I implemented for industry or research.
   <br>
   <br>
   <br>
-  
+
   <img src="/img/clip_image062.jpg"><br>
   <b>GLSL - Magic Lens</b>
   <br>
@@ -242,7 +242,7 @@ These are Graphics/GIS projects that I implemented for industry or research.
   <br>
   <br>
   <br>
-  
+
   <img src="/img/clip_image064.jpg"><br>
   <b>GLSL - Texture Mapping - Deers</b>
   <br>
@@ -250,7 +250,7 @@ These are Graphics/GIS projects that I implemented for industry or research.
   <br>
   <br>
   <br>
-  
+
   <img src="/img/clip_image066.jpg"><br>
   <b>GLSL - Tessellated Bézier Patch</b>
   <br>
@@ -258,7 +258,7 @@ These are Graphics/GIS projects that I implemented for industry or research.
   <br>
   <br>
   <br>
-  
+
   <img src="/img/clip_image008.jpg"><br>
   <b>Dynamic Web Application - add ToDo Note for different users</b>
   <br>
@@ -266,5 +266,5 @@ These are Graphics/GIS projects that I implemented for industry or research.
   <br>
   <br>
   <br>
-    
+​    
 </p>
