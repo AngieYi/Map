@@ -4,11 +4,11 @@
 
 ### **Hongyan Yi**
 
-yi@oregonstate.edu           https://www.linkedin.com/in/hongyanyi        https://github.com/AngieYi 
+hongyan.angie.yi@gmail.com           https://www.linkedin.com/in/hongyanyi        https://github.com/AngieYi 
 
 ###  Overview
 
-These are Graphics / GIS projectsthat I implemented for industry or research.
+These are Graphics/GIS projects that I implemented for industry or research.
 
 ### Specifications
 
@@ -67,9 +67,13 @@ These are Graphics / GIS projectsthat I implemented for industry or research.
   <br>
   <br>
   <br>
+  <br>
+  <br>
   
   <img src="/img/clip_image018.jpg"><br>
   <b>C - OpenGL - Terrain Visualization - Multiple View</b>
+  <br>
+  <br>
   <br>
   <br>
   <br>
