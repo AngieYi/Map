@@ -23,8 +23,8 @@ These are Graphics / GIS projectsthat I implemented for industry or research.
 • Identifier of Underground Water On Geological Maps.
 
 • 2D/3DGraphics projects, covered Texture mapping, Animation, Lighting, Transparency,Point Cloud, Geometric Modeling, CuttingPlane, Isoline, Isosurface, Isovolume, Vector Cloud, Streamline, Probe Ribbon/BlobTrace, Hyperbolic Geometry Map, Noisy, ChromaDepth, Displacement/Bump Mapping, MagicLens, Tessellated Bézier Patch.
-
-
+<br>
+<br>
 
 <p align="center">
   <img src="/img/clip_image006.jpg"><br>
@@ -32,40 +32,27 @@ These are Graphics / GIS projectsthat I implemented for industry or research.
   <br>
   <br>
   <br>
-</p>
-
-<p align="center">
+  
   <img src="/img/clip_image008.jpg"><br>
   <b>DynamicWebsite - add ToDo Note for different users</b>
   <br>
   <br>
   <br>
+  
+  <img src="/img/clip_image010.jpg"><br>
+  <b>C#.NET- MapGIS - Mining Map Making and Data Management System</b>
+  <br>
+  <br>
+  <br>
+  
+  <img src="/img/clip_image012.jpg">|<img src="/img/clip_image014.jpg">
+  <b>Before Identify                            After Identify </b><br>
+  <b>C#.NET - ArcEngine - Identify underground water on geological maps</b><br>
+  <br>
+  <br>
+  <br>
+  
 </p>
-                                                                
-                                         
-
-
-
-![img](/img/clip_image010.jpg)
-
-​                                          **C#.NET- MapGIS - Mining Map Making and Data Management System**
-
-
-
-
-
-![img](/img/clip_image012.jpg)
-
-​                                          **Before Identify**
-
-![img](/img/clip_image014.jpg)
-
-​                                          **After Identify**
-
-​                                          **C#.NET - ArcEngine - Identify underground water on geological maps**
-
-
-
 
 
 ![earth.png](/img/clip_image016.gif)
