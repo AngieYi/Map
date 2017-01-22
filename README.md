@@ -32,9 +32,13 @@ These are Graphics / GIS projectsthat I implemented for industry or research.
   <br>
   <br>
   <br>
+  <br>
+  <br>
   
   <img src="/img/clip_image008.jpg"><br>
   <b>DynamicWebsite - add ToDo Note for different users</b>
+  <br>
+  <br>
   <br>
   <br>
   <br>
@@ -44,12 +48,16 @@ These are Graphics / GIS projectsthat I implemented for industry or research.
   <br>
   <br>
   <br>
+  <br>
+  <br>
   
   <img src="/img/clip_image012.jpg"><br>
-  <b>Before Identify</b><br>
+  <b>Before Identify</b><br><br>
   <img src="/img/clip_image014.jpg"><br>
   <b>After Identify</b><br>
   <b>C#.NET - ArcEngine - Identify underground water on geological maps</b><br>
+  <br>
+  <br>
   <br>
   <br>
   <br>
@@ -71,9 +79,13 @@ These are Graphics / GIS projectsthat I implemented for industry or research.
   <br>
   <br>
   <br>
+  <br>
+  <br>
   
   <img src="/img/clip_image022.jpg"><br>
   <b>C - OpenGL - Curved Cartesian Hyperbolic</b>
+  <br>
+  <br>
   <br>
   <br>
   <br>
@@ -83,9 +95,13 @@ These are Graphics / GIS projectsthat I implemented for industry or research.
   <br>
   <br>
   <br>
+  <br>
+  <br>
   
   <img src="/img/clip_image026.jpg"><br>
   <b>C - OpenGL - Romantic Birthday Night Video - Texture Mapping, Bézier curve, Lighting</b>
+  <br>
+  <br>
   <br>
   <br>
   <br>
@@ -95,9 +111,13 @@ These are Graphics / GIS projectsthat I implemented for industry or research.
   <br>
   <br>
   <br>
+  <br>
+  <br>
   
   <img src="/img/clip_image030.jpg"><br>
-  <b>OpenCL/ C - OpenGL Particle System</b>
+  <b>C - OpenGL - OpenCL - Particle System</b>
+  <br>
+  <br>
   <br>
   <br>
   <br>
@@ -107,15 +127,21 @@ These are Graphics / GIS projectsthat I implemented for industry or research.
   <br>
   <br>
   <br>
+  <br>
+  <br>
   
   <img src="/img/clip_image034.jpg"><br>
-  <b>C- OpenGL - Cutting plane</b>
+  <b>C - OpenGL - Cutting plane</b>
+  <br>
+  <br>
   <br>
   <br>
   <br>
   
   <img src="/img/clip_image036.jpg"><br>
-  <b>C- OpenGL - Isoline - Contour line</b>
+  <b>C - OpenGL - Isoline - Contour line</b>
+  <br>
+  <br>
   <br>
   <br>
   <br>
@@ -125,9 +151,13 @@ These are Graphics / GIS projectsthat I implemented for industry or research.
   <br>
   <br>
   <br>
+  <br>
+  <br>
   
   <img src="/img/clip_image040.jpg"><br>
   <b>C - OpenGL - Isovolume</b>
+  <br>
+  <br>
   <br>
   <br>
   <br>
@@ -137,9 +167,13 @@ These are Graphics / GIS projectsthat I implemented for industry or research.
   <br>
   <br>
   <br>
+  <br>
+  <br>
   
   <img src="/img/clip_image044.jpg"><br>
   <b>C - OpenGL - Static Stream Lines</b>
+  <br>
+  <br>
   <br>
   <br>
   <br>
@@ -149,9 +183,13 @@ These are Graphics / GIS projectsthat I implemented for industry or research.
   <br>
   <br>
   <br>
+  <br>
+  <br>
   
   <img src="/img/clip_image048.jpg"><br>
   <b>C - OpenGL - Probe Ribbon Trace</b>
+  <br>
+  <br>
   <br>
   <br>
   <br>
@@ -161,33 +199,45 @@ These are Graphics / GIS projectsthat I implemented for industry or research.
   <br>
   <br>
   <br>
+  <br>
+  <br>
   
   <img src="/img/clip_image052.jpg"><br>
   <b>RenderMan - Elliptical Dots</b>
   <br>
   <br>
   <br>
+  <br>
+  <br>
   
   <img src="/img/clip_image054.jpg"><br>
-  <b>RenderMan- Displacement Mapping vs Bump Mapping</b>
+  <b>RenderMan - Displacement Mapping vs Bump Mapping</b>
+  <br>
+  <br>
   <br>
   <br>
   <br>
   
   <img src="/img/clip_image056.jpg"><br>
-  <b>GLSL- ChromaDepth</b>
+  <b>GLSL - ChromaDepth</b>
+  <br>
+  <br>
   <br>
   <br>
   <br>
   
   <img src="/img/clip_image058.jpg"><br>
-  <b>GLSL- Displacement/Bump Mapping, Lighting</b>
+  <b>GLSL - Displacement/Bump Mapping, Lighting</b>
+  <br>
+  <br>
   <br>
   <br>
   <br>
   
   <img src="/img/clip_image062.jpg"><br>
-  <b>GLSL- Magic Lens</b>
+  <b>GLSL - Magic Lens</b>
+  <br>
+  <br>
   <br>
   <br>
   <br>
@@ -197,9 +247,13 @@ These are Graphics / GIS projectsthat I implemented for industry or research.
   <br>
   <br>
   <br>
+  <br>
+  <br>
   
   <img src="/img/clip_image066.jpg"><br>
-  <b>GLSL- Tessellated Bézier Patch</b>
+  <b>GLSL - Tessellated Bézier Patch</b>
+  <br>
+  <br>
   <br>
   <br>
   <br>
