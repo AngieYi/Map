@@ -7,7 +7,7 @@
 hongyan.angie.yi@gmail.com           https://www.linkedin.com/in/hongyanyi        https://github.com/AngieYi 
 
 
-###  Overview
+### Overview
 
 These are Graphics / GIS / Web projects that I implemented for industry or research.
 
