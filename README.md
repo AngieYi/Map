@@ -26,6 +26,8 @@ These are Graphics / GIS projectsthat I implemented for industry or research.
 
 
 
+
+
 ![img](/img/clip_image006.jpg)
 ​                                          **WebMapping - Global Ship Movement Visualization**
 
@@ -34,60 +36,60 @@ These are Graphics / GIS projectsthat I implemented for industry or research.
 
 
 ![img](/img/clip_image008.jpg)
-​						**DynamicWebsite - add ToDo Note for different users**
+​						                               **DynamicWebsite - add ToDo Note for different users**
 
 
 
 
 
 ![img](/img/clip_image010.jpg)
-​						**C#.NET- MapGIS - Mining Map Making and Data Management System**
+​                                          **C#.NET- MapGIS - Mining Map Making and Data Management System**
 
 
 
 
 
 ![img](/img/clip_image012.jpg)
-​											**Before Identify**
+​                                          **Before Identify**
 
 ![img](/img/clip_image014.jpg)
-​											**After Identify**
-​						**C#.NET - ArcEngine - Identify underground water on geological maps**
+​                                          **After Identify**
+​                                          **C#.NET - ArcEngine - Identify underground water on geological maps**
 
 
 
 
 
 ![earth.png](/img/clip_image016.gif)
-​						**C- OpenGL - Texture mapping - Animation**
+​                                          **C- OpenGL - Texture mapping - Animation**
 
 
 
 
 
 ![Untitled.png](/img/clip_image018.jpg)
-​						**C- OpenGL - Terrain Visualization - Multiple View**
+​                                          **C- OpenGL - Terrain Visualization - Multiple View**
 
 
 
 
 
 ![img](/img/clip_image020.jpg)
-​						**C- OpenGL - Cartesian no hyperbolic**
+​                                          **C- OpenGL - Cartesian no hyperbolic**
 
 
 
 
 
 ![img](/img/clip_image022.jpg)
-​						**C- OpenGL - Curved Cartesian Hyperbolic**
+​                                          **C- OpenGL - Curved Cartesian Hyperbolic**
 
 
 
 
 
 ![img](/img/clip_image024.jpg)
-​						**C- OpenGL - Curved Polar Hyperbolic**
+​                                          **C- OpenGL - Curved Polar Hyperbolic**
 
 
 
