@@ -57,7 +57,7 @@ These are Graphics / GIS / Web projects that I implemented for industry or resea
   <br>
   <br>
 
-  <img src="/img/clip_image018.jpg"><br>
+  <img src="/img/clip_image017.png"><br>
   <b>C - OpenGL - Oregon Terrain Visualization - Multiple View</b>
   <br>
   <br>
@@ -65,7 +65,7 @@ These are Graphics / GIS / Web projects that I implemented for industry or resea
   <br>
   <br>
 
-  <img src="/img/clip_image020.jpg"><br>
+  <img src="/img/clip_image019.png"><br>
   <b>C - OpenGL - Cartesian no hyperbolic</b>
   <br>
   <br>
@@ -73,7 +73,7 @@ These are Graphics / GIS / Web projects that I implemented for industry or resea
   <br>
   <br>
 
-  <img src="/img/clip_image022.jpg"><br>
+  <img src="/img/clip_image021.png"><br>
   <b>C - OpenGL - Curved Cartesian Hyperbolic</b>
   <br>
   <br>
@@ -81,7 +81,7 @@ These are Graphics / GIS / Web projects that I implemented for industry or resea
   <br>
   <br>
 
-  <img src="/img/clip_image024.jpg"><br>
+  <img src="/img/clip_image023.png"><br>
   <b>C - OpenGL - Curved Polar Hyperbolic</b>
   <br>
   <br>
@@ -89,7 +89,7 @@ These are Graphics / GIS / Web projects that I implemented for industry or resea
   <br>
   <br>
 
-  <img src="/img/clip_image016.gif"><br>
+  <img src="/img/clip_image015.png"><br>
   <b>C - OpenGL - Texture mapping - Animation</b>
   <br>
   <br>
@@ -97,7 +97,7 @@ These are Graphics / GIS / Web projects that I implemented for industry or resea
   <br>
   <br>
 
-  <img src="/img/clip_image054.jpg"><br>
+  <img src="/img/clip_image053.png"><br>
   <b>RenderMan - Displacement Mapping vs Bump Mapping</b>
   <br>
   <br>
@@ -105,7 +105,7 @@ These are Graphics / GIS / Web projects that I implemented for industry or resea
   <br>
   <br>
 
-  <img src="/img/clip_image056.jpg"><br>
+  <img src="/img/clip_image055.png"><br>
   <b>GLSL - ChromaDepth</b>
   <br>
   <br>
@@ -113,7 +113,7 @@ These are Graphics / GIS / Web projects that I implemented for industry or resea
   <br>
   <br>
 
-  <img src="/img/clip_image026.jpg"><br>
+  <img src="/img/clip_image025.png"><br>
   <b>C - OpenGL - Romantic Birthday Night Video - Texture Mapping, Bézier curve, Lighting</b>
   <br>
   <br>
@@ -121,7 +121,7 @@ These are Graphics / GIS / Web projects that I implemented for industry or resea
   <br>
   <br>
 
-  <img src="/img/clip_image028.jpg"><br>
+  <img src="/img/clip_image027.png"><br>
   <b>C - OpenGL - Helicopter Animation - Multiple view</b>
   <br>
   <br>
@@ -129,7 +129,7 @@ These are Graphics / GIS / Web projects that I implemented for industry or resea
   <br>
   <br>
 
-  <img src="/img/clip_image030.jpg"><br>
+  <img src="/img/clip_image029.jpg"><br>
   <b>C - OpenGL - OpenCL - Particle System</b>
   <br>
   <br>
@@ -137,7 +137,7 @@ These are Graphics / GIS / Web projects that I implemented for industry or resea
   <br>
   <br>
 
-  <img src="/img/clip_image032.jpg"><br>
+  <img src="/img/clip_image031.png"><br>
   <b>C - OpenGL - Point Cloud</b>
   <br>
   <br>
@@ -145,7 +145,7 @@ These are Graphics / GIS / Web projects that I implemented for industry or resea
   <br>
   <br>
 
-  <img src="/img/clip_image034.jpg"><br>
+  <img src="/img/clip_image033.png"><br>
   <b>C - OpenGL - Cutting plane</b>
   <br>
   <br>
@@ -153,7 +153,7 @@ These are Graphics / GIS / Web projects that I implemented for industry or resea
   <br>
   <br>
 
-  <img src="/img/clip_image036.jpg"><br>
+  <img src="/img/clip_image035.png"><br>
   <b>C - OpenGL - Isoline - Contour line</b>
   <br>
   <br>
@@ -161,7 +161,7 @@ These are Graphics / GIS / Web projects that I implemented for industry or resea
   <br>
   <br>
 
-  <img src="/img/clip_image038.jpg"><br>
+  <img src="/img/clip_image037.png"><br>
   <b>C - OpenGL - Isosurface</b>
   <br>
   <br>
@@ -169,7 +169,7 @@ These are Graphics / GIS / Web projects that I implemented for industry or resea
   <br>
   <br>
 
-  <img src="/img/clip_image040.jpg"><br>
+  <img src="/img/clip_image039.png"><br>
   <b>C - OpenGL - Isovolume</b>
   <br>
   <br>
@@ -177,7 +177,7 @@ These are Graphics / GIS / Web projects that I implemented for industry or resea
   <br>
   <br>
 
-  <img src="/img/clip_image042.jpg"><br>
+  <img src="/img/clip_image041.png"><br>
   <b>C - OpenGL - Vector Cloud</b>
   <br>
   <br>
@@ -185,7 +185,7 @@ These are Graphics / GIS / Web projects that I implemented for industry or resea
   <br>
   <br>
 
-  <img src="/img/clip_image044.jpg"><br>
+  <img src="/img/clip_image043.png"><br>
   <b>C - OpenGL - Static Stream Lines</b>
   <br>
   <br>
@@ -193,7 +193,7 @@ These are Graphics / GIS / Web projects that I implemented for industry or resea
   <br>
   <br>
 
-  <img src="/img/clip_image046.jpg"><br>
+  <img src="/img/clip_image045.png"><br>
   <b>C - OpenGL - Probe Streamline</b>
   <br>
   <br>
@@ -201,7 +201,7 @@ These are Graphics / GIS / Web projects that I implemented for industry or resea
   <br>
   <br>
 
-  <img src="/img/clip_image048.jpg"><br>
+  <img src="/img/clip_image047.png"><br>
   <b>C - OpenGL - Probe Ribbon Trace</b>
   <br>
   <br>
@@ -209,7 +209,7 @@ These are Graphics / GIS / Web projects that I implemented for industry or resea
   <br>
   <br>
 
-  <img src="/img/clip_image050.jpg"><br>
+  <img src="/img/clip_image049.png"><br>
   <b>C - OpenGL - Probe Blob Trace</b>
   <br>
   <br>
@@ -217,7 +217,7 @@ These are Graphics / GIS / Web projects that I implemented for industry or resea
   <br>
   <br>
 
-  <img src="/img/clip_image052.jpg"><br>
+  <img src="/img/clip_image051.png"><br>
   <b>RenderMan - Elliptical Dots</b>
   <br>
   <br>
@@ -227,7 +227,7 @@ These are Graphics / GIS / Web projects that I implemented for industry or resea
 
   
 
-  <img src="/img/clip_image058.jpg"><br>
+  <img src="/img/clip_image057.png"><br>
   <b>GLSL - Displacement/Bump Mapping, Lighting</b>
   <br>
   <br>
@@ -235,7 +235,7 @@ These are Graphics / GIS / Web projects that I implemented for industry or resea
   <br>
   <br>
 
-  <img src="/img/clip_image062.jpg"><br>
+  <img src="/img/clip_image061.png"><br>
   <b>GLSL - Magic Lens</b>
   <br>
   <br>
@@ -243,7 +243,7 @@ These are Graphics / GIS / Web projects that I implemented for industry or resea
   <br>
   <br>
 
-  <img src="/img/clip_image064.jpg"><br>
+  <img src="/img/clip_image063.png"><br>
   <b>GLSL - Texture Mapping - Deers</b>
   <br>
   <br>
@@ -251,7 +251,7 @@ These are Graphics / GIS / Web projects that I implemented for industry or resea
   <br>
   <br>
 
-  <img src="/img/clip_image066.jpg"><br>
+  <img src="/img/clip_image065.png"><br>
   <b>GLSL - Tessellated Bézier Patch</b>
   <br>
   <br>
@@ -259,7 +259,7 @@ These are Graphics / GIS / Web projects that I implemented for industry or resea
   <br>
   <br>
 
-  <img src="/img/clip_image008.jpg"><br>
+  <img src="/img/clip_image007.png"><br>
   <b>Dynamic Web Application - add ToDo Note for different users</b>
   <br>
   <br>
