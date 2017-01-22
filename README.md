@@ -16,7 +16,7 @@ These are Graphics/GIS projects that I implemented for industry or research.
 
 • Global ship movements on 3D Earth.
 
-• Dynamic Website - add ToDo Note for different users.
+• Dynamic Web Application - add ToDo Note for different users.
 
 • 2D Mining Map Making and Data Management System.
 
@@ -27,16 +27,9 @@ These are Graphics/GIS projects that I implemented for industry or research.
 <p align="center">
   <br>
   <br>
+  
   <img src="/img/clip_image006.jpg"><br>
   <b>WebMapping - Global Ship Movement Visualization</b>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  
-  <img src="/img/clip_image008.jpg"><br>
-  <b>DynamicWebsite - add ToDo Note for different users</b>
   <br>
   <br>
   <br>
@@ -62,16 +55,8 @@ These are Graphics/GIS projects that I implemented for industry or research.
   <br>
   <br>
   
-  <img src="/img/clip_image016.gif"><br>
-  <b>C - OpenGL - Texture mapping - Animation</b>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  
   <img src="/img/clip_image018.jpg"><br>
-  <b>C - OpenGL - Terrain Visualization - Multiple View</b>
+  <b>C - OpenGL - Oregon Terrain Visualization - Multiple View</b>
   <br>
   <br>
   <br>
@@ -96,6 +81,38 @@ These are Graphics/GIS projects that I implemented for industry or research.
   
   <img src="/img/clip_image024.jpg"><br>
   <b>C - OpenGL - Curved Polar Hyperbolic</b>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  
+  <img src="/img/clip_image016.gif"><br>
+  <b>C - OpenGL - Texture mapping - Animation</b>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  
+  <img src="/img/clip_image054.jpg"><br>
+  <b>RenderMan - Displacement Mapping vs Bump Mapping</b>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  
+  <img src="/img/clip_image056.jpg"><br>
+  <b>GLSL - ChromaDepth</b>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  
+  <img src="/img/clip_image008.jpg"><br>
+  <b>Dynamic Web Application - add ToDo Note for different users</b>
   <br>
   <br>
   <br>
@@ -214,21 +231,7 @@ These are Graphics/GIS projects that I implemented for industry or research.
   <br>
   <br>
   
-  <img src="/img/clip_image054.jpg"><br>
-  <b>RenderMan - Displacement Mapping vs Bump Mapping</b>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
   
-  <img src="/img/clip_image056.jpg"><br>
-  <b>GLSL - ChromaDepth</b>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
   
   <img src="/img/clip_image058.jpg"><br>
   <b>GLSL - Displacement/Bump Mapping, Lighting</b>
