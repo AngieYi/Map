@@ -31,7 +31,7 @@ These are Graphics / GIS / Web projects that I implemented for industry or resea
   <br>
 
   <img src="/img/clip_image005.png"><br>
-  <b>WebMapping - Global Ship Movement Visualization</b>
+  <b>JavaScript - HTML - CSS -Three.js - Global Ship Movement on 3D Earth</b>
   <br>
   <br>
   <br>
@@ -65,6 +65,30 @@ These are Graphics / GIS / Web projects that I implemented for industry or resea
   <br>
   <br>
 
+  <img src="/img/clip_image025.png"><br>
+  <b>C - OpenGL - Romantic Birthday Night Video - Texture Mapping, Bézier curve, Lighting</b>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  
+  <img src="/img/clip_image027.png"><br>
+  <b>C - OpenGL - Helicopter Animation - Multiple view</b>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+
+  <img src="/img/clip_image029.jpg"><br>
+  <b>C - OpenGL - OpenCL - Particle System</b>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  
   <img src="/img/clip_image019.png"><br>
   <b>C - OpenGL - Cartesian no hyperbolic</b>
   <br>
@@ -83,54 +107,6 @@ These are Graphics / GIS / Web projects that I implemented for industry or resea
 
   <img src="/img/clip_image023.png"><br>
   <b>C - OpenGL - Curved Polar Hyperbolic</b>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-
-  <img src="/img/clip_image015.png"><br>
-  <b>C - OpenGL - Texture mapping - Animation</b>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-
-  <img src="/img/clip_image053.png"><br>
-  <b>RenderMan - Displacement Mapping vs Bump Mapping</b>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-
-  <img src="/img/clip_image055.png"><br>
-  <b>GLSL - ChromaDepth</b>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-
-  <img src="/img/clip_image025.png"><br>
-  <b>C - OpenGL - Romantic Birthday Night Video - Texture Mapping, Bézier curve, Lighting</b>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-
-  <img src="/img/clip_image027.png"><br>
-  <b>C - OpenGL - Helicopter Animation - Multiple view</b>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-
-  <img src="/img/clip_image029.jpg"><br>
-  <b>C - OpenGL - OpenCL - Particle System</b>
   <br>
   <br>
   <br>
@@ -225,8 +201,22 @@ These are Graphics / GIS / Web projects that I implemented for industry or resea
   <br>
   <br>
 
-  
+  <img src="/img/clip_image015.png"><br>
+  <b>C - OpenGL - Texture mapping - Animation</b>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
 
+  <img src="/img/clip_image053.png"><br>
+  <b>RenderMan - Displacement Mapping vs Bump Mapping</b>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  
   <img src="/img/clip_image057.png"><br>
   <b>GLSL - Displacement/Bump Mapping, Lighting</b>
   <br>
@@ -258,9 +248,17 @@ These are Graphics / GIS / Web projects that I implemented for industry or resea
   <br>
   <br>
   <br>
-
+  
+  <img src="/img/clip_image055.png"><br>
+  <b>GLSL - ChromaDepth</b>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  
   <img src="/img/clip_image007.png"><br>
-  <b>Dynamic Web Application - add ToDo Note for different users</b>
+  <b>JavaScript - HTML - CSS - Node.js - Express.js - Handlerbar.js - Dynamic Website</b>
   <br>
   <br>
   <br>
