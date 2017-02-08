@@ -39,7 +39,7 @@ These are Graphics / GIS / Web projects that I implemented for industry or resea
   <br>
 
   <img src="/img/clip_image009.png"><br>
-  <b>C#.NET - MapGIS - Mining Map Making and Data Management System</b>
+  <b>C#.NET - MapGIS - SQL Server - 2D Mining Map Making and Data Management System</b>
   <br>
   <br>
   <br>
@@ -50,7 +50,7 @@ These are Graphics / GIS / Web projects that I implemented for industry or resea
   <b>Before Identify</b><br><br>
   <img src="/img/clip_image013.png"><br>
   <b>After Identify</b><br>
-  <b>C#.NET - ArcEngine - Identify underground water on geological maps</b><br>
+  <b>C#.NET - ArcEngine - Access - Identify Underground Water on Geological Maps</b><br>
   <br>
   <br>
   <br>
