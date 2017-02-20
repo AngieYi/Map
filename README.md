@@ -15,7 +15,7 @@ These are Web / Desktop applications that I implemented for industry or research
 ### Specifications
 
 **Python / Django / JavaScript / HTML / CSS / AngularJS / Bootstrap / Three.js / Node.js / Express / Handlerbar 
-C / C#.NET / OpenGL / GLSL / RenderMan / OpenCL / SQL Server / MongoDB / JSON**</b>
+C / C#.NET / OpenGL / GLSL / RenderMan / OpenCL / SQL Server / MongoDB / JSON**<br>
 <b>• Developed Web Applications: Agriculture Business Platform; Global ship movements on 3D Earth; Dynamic Website.</b>
 <b>• Developed Desktop Applications: Map Making and Data Management System; Identify Water on Geological Maps.</b>
 <b>• Contributed Test Automation Tool: Template Scripting Testing Language Tool.</b>
