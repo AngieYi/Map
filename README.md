@@ -30,6 +30,14 @@ These are Graphics / GIS / Web projects that I implemented for industry or resea
   <br>
   <br>
 
+  <img src="/img/agbiz logic.png"><br>
+  <b>Python - Django - JavaScript - HTML - CSS - AngularJS - Bootstrap - Node.js - Agriculture Business Platform</b>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  
   <img src="/img/clip_image005.png"><br>
   <b>JavaScript - HTML - CSS -Three.js - Global Ship Movement on 3D Earth</b>
   <br>
@@ -57,6 +65,14 @@ These are Graphics / GIS / Web projects that I implemented for industry or resea
   <br>
   <br>
 
+  <img src="/img/testAutomation.png"><br>
+  <b>Python - Test Automation - Template Scripting Testing Language Tool (TSTL)</b>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  
   <img src="/img/clip_image017.png"><br>
   <b>C - OpenGL - Oregon Terrain Visualization - Multiple View</b>
   <br>
