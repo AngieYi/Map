@@ -30,7 +30,7 @@ These are Graphics / GIS / Web projects that I implemented for industry or resea
   <br>
   <br>
 
-  <img src="/img/agbiz logic.png"><br>
+  <img src="/img/agbiz logic.jpg"><br>
   <b>Python - Django - JavaScript - HTML - CSS - AngularJS - Bootstrap - Node.js - Agriculture Business Platform</b>
   <br>
   <br>
@@ -65,7 +65,7 @@ These are Graphics / GIS / Web projects that I implemented for industry or resea
   <br>
   <br>
 
-  <img src="/img/testAutomation.png"><br>
+  <img src="/img/testAutomation.jpg"><br>
   <b>Python - Test Automation - Template Scripting Testing Language Tool (TSTL)</b>
   <br>
   <br>
