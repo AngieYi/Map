@@ -9,22 +9,20 @@ hongyan.angie.yi@gmail.com           https://www.linkedin.com/in/hongya
 
 ### Overview
 
-These are Graphics / GIS / Web projects that I implemented for industry or research.
+These are Web / Desktop applications that I implemented for industry or research.
 
 
 ### Specifications
 
-**C/C#.NET/Python/JavaScript/HTML/CSS/Three.js/Node.js/Express/Handlerbar/OpenGL/GLSL/RenderMan/OpenCL**
+**Python / Django / JavaScript / HTML / CSS / AngularJS / Bootstrap / Three.js / Node.js / Express / Handlerbar 
+C / C#.NET / OpenGL / GLSL / RenderMan / OpenCL / SQL Server / MongoDB / JSON**
+• Developed Web Applications: Agriculture Business Platform; Global ship movements on 3D Earth; Dynamic Website.
+• Developed Desktop Applications: Map Making and Data Management System; Identify Water on Geological Maps.
+• Contributed Test Automation Tool: Template Scripting Testing Language Tool.
+• Developed 2D/3D Graphics projects, covered Texture mapping, Animation, Lighting, Transparency, Point Cloud, Geometric Modeling,
+  Cutting Plane, Isoline, Isosurface, Isovolume, Vector Cloud, Streamline, Probe Ribbon/Blob Trace, Hyperbolic Geometry Map, Noise,
+  ChromaDepth, Displacement/Bump Mapping, Magic Lens, Tessellated Bézier Patch.
 
-• Global ship movements on 3D Earth.
-
-• 2D Mining Map-Making and Data Management System.
-
-• Identifier of Underground Water On 2D Geological Maps.
-
-• 2D/3D Graphics projects, covered Texture mapping, Animation, Lighting, Transparency,Point Cloud, Geometric Modeling, CuttingPlane, Isoline, Isosurface, Isovolume, Vector Cloud, Streamline, Probe Ribbon/BlobTrace, Hyperbolic Geometry Map, Noisy, ChromaDepth, Displacement/Bump Mapping, MagicLens, Tessellated Bézier Patch.
-
-• Dynamic Web Application - add ToDo Note for different users.
 
 <p align="center">
   <br>
