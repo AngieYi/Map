@@ -45,6 +45,14 @@ These are Graphics / GIS / Web projects that I implemented for industry or resea
   <br>
   <br>
   <br>
+  
+  <img src="/img/clip_image007.png"><br>
+  <b>JavaScript - HTML - CSS - Node.js - Express.js - Handlerbar.js - Dynamic Website</b>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
 
   <img src="/img/clip_image009.png"><br>
   <b>C#.NET - MapGIS - SQL Server - 2D Mining Map Making and Data Management System</b>
@@ -273,12 +281,5 @@ These are Graphics / GIS / Web projects that I implemented for industry or resea
   <br>
   <br>
   
-  <img src="/img/clip_image007.png"><br>
-  <b>JavaScript - HTML - CSS - Node.js - Express.js - Handlerbar.js - Dynamic Website</b>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
 ​    
 </p>
