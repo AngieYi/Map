@@ -19,9 +19,7 @@ C / C#.NET / OpenGL / GLSL / RenderMan / OpenCL / SQL Server / MongoDB / JSON**<
 • Developed Web Applications: Agriculture Business Platform; Global ship movements on 3D Earth; Dynamic Website.<br>
 • Developed Desktop Applications: Map Making and Data Management System; Identify Water on Geological Maps.<br>
 • Contributed Test Automation Tool: Template Scripting Testing Language Tool.<br>
-• Developed 2D/3D Graphics projects, covered Texture mapping, Animation, Lighting, Transparency, Point Cloud,<br>
-  Geometric Modeling,Cutting Plane, Isoline, Isosurface, Isovolume, Vector Cloud, Streamline, Probe Ribbon/Blob Trace,<br>
-  Hyperbolic Geometry Map, Noise,ChromaDepth, Displacement/Bump Mapping, Magic Lens, Tessellated Bézier Patch.<br>
+• Developed 2D/3D Graphics projects, covered Texture mapping, Animation, Lighting, Transparency, Point Cloud,Geometric Modeling,Cutting Plane, Isoline, Isosurface, Isovolume, Vector Cloud, Streamline, Probe Ribbon/Blob Trace,Hyperbolic Geometry Map, Noise,ChromaDepth, Displacement/Bump Mapping, Magic Lens, Tessellated Bézier Patch.<br>
 
 
 <p align="center">
